@@ -69,7 +69,7 @@ Here's a preview of the graphical interface used for tooth segmentation and numb
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ajithmoolya">
+      <a href="https://github.com/AjithMoolya04">
         <img src="https://github.com/ajithmoolya.png" width="50"/><br/>
         <sub><b>Ajith Moolya</b></sub>
       </a>
