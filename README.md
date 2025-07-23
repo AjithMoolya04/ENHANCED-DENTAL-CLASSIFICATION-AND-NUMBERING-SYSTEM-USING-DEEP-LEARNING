@@ -54,7 +54,7 @@ Here's a preview of the graphical interface used for tooth segmentation and numb
 
 ## 🖼️ Sample Outputs
 
-| 🏷️ Input X-ray | 🧠 Prediction with Tooth Segmentation |
+| 🏷️ Input X-ray | 🧠 Prediction with bounding boxes |
 |----------------|----------------------------------------|
 | ![Input X-ray](samples/input.png) | ![Prediction](samples/output.png) |
 
